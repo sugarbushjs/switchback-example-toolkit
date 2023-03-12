@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Sugarbush Example",
+  "name": "Sugarbush example with React Toolkit",
   "icons": [
     {
       "src": "favicon.ico",
