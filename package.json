@@ -2,8 +2,8 @@
   "name": "swithback-toolkit",
   "author": "Steven Wickers (StevenWickers@gmail.com)",
   "description": "This is an example Redux toolkit using Sugarbush ",
-  "repository": "",
-  "version": "1.2.0",
+  "repository": "https://github.com/sugarbushjs/switchback-example-toolkit",
+  "version": "1.3.0",
   "private": false,
   "dependencies": {
     "@reduxjs/toolkit": "^1.9.3",
@@ -25,7 +25,8 @@
     "react-toastify": "^9.1.1",
     "styled-components": "^5.3.8",
     "redux": "^4.2.1",
-    "typescript": "^4.4.2"
+    "typescript": "^4.4.2",
+    "sugarbush": "^1.7.1"
   },
   "scripts": {
     "start": "react-scripts start",
